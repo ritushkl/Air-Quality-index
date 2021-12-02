@@ -3,7 +3,9 @@ Abstract-Air is essential natural resource available which is being compromised 
 
 
 I.	MOTIVATION
+
 The  air  quality  index  (AQI)  is  an  index  used to report air quality on a daily basis. Air quality index is  a  measure  used  to  indicate  level  of  the pollutant like so2, no2, rspm, spm etc. Air quality has been depleted in terms of quality due to various economic activities. The purpose of the AQI is to help people know how the local air quality impacts their health. Higher the AQI value, greater will be the level of air pollution and greater the health concerns. We choose this project to predict the air quality using the machine learning model with the help of previous year data.  By this, We would be able to check the major AQI pollutants and  the  areas  which  are  worst  affected.   People with lung diseases are at higher risks. And in the prevailing  corona  times  when  the  virus  also  affects  the  lungs,  the  poor  air  quality  will  make things worse for the PC, provides authors with most of the formatting specifications needed for preparing 
+
 II.	RELATED WORK
 Air pollution leads to raise in    diseases, lower immunity and other respiratory problems. Decision tree algorithm seems to work well in predicting air quality. This could be used in predicting the air quality by the weather department E. Kalapanidas et.al[1].
 It is believed that city air pollution has a huge impact on human well being  as in developing nations the air quality measures are not available or are not enforced properly.
