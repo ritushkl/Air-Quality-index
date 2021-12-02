@@ -9,6 +9,7 @@ Air pollution leads to raise in    diseases, lower immunity and other respirator
 It is believed that city air pollution has a huge impact on human well being  as in developing nations the air quality measures are not available or are not enforced properly.
 Several studies have shown that the bad air quality or air pollution is linked with high Covid-19 death rates.
 Covid-19 death rates have a pattern where the population density is high and the exposure to P.M2.5 is also more K.Mahesh et.al [2].Some recent studies are focusing on more advanced statistic based learning algorithms for air quality checking and prediction of air pollution. Raimondo et al.[3],Garcia et al. Used neural network s to build model for prediction. They used SVM and ANN to train models. The ANN gave the best result with 79% specification and 0.82% false positive rate and SVM gave the result with 80% specificity and 0.13% false positive rate.Yu.et al proposed random forest approach for AQI prediction and the best performance prediction was given by stacking assembles. Yun-Chia et.al[6] has done series of experiment on three different dataset which are from various  regions in china . There experiment suggests that Machine learning algorithms in combination with Adaboost results in better prediction performance and provides best results in MAE.
+
 III. RESULTS
 
 Below Table shows the comparison of the results between various Machine Learning algorithms implemented in the model: DT, SVM, RF, multiple linear regression and Logistic Regression.
@@ -24,9 +25,11 @@ SVM	99.97%
 
 On the basis of all the observations, and Analysis, the best algorithm suited well for this prediction of AQI is Decision Tree Algorithm with the accuracy of 99.98%.
 Along with the accuracy, the error is also of prime importance. The algorithm with the less error is supposed to be the best than the ones having greater errors. The Mean Squared Error (MSE) is used to calculate the mean of the squared differences between actual value and predicted value. The Mean Absolute Error (MAE) is the mean of the absolute difference between actual value and predicted value For Linear Regression, MAE for Model 1 is 12.89 & for Model 2 is 20.08.
+
 VI. CONCLUSION
 
 Since our model is capable of predicting the current data with 99.98% accuracy, it will successfully predict the upcoming air quality index of particular data within a given region. With this model we can forecast the AQI.
+
 V. REFERENCES
 
 [1]. E. Kalapanidas and N. Avouris, “Applying machine learning techniques in air quality prediction,” in Proc. ACAI, vol. 99, September 2017.
